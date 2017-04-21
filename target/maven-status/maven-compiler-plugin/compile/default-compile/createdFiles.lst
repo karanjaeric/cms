@@ -1,0 +1,10 @@
+com\hmis\beans\ReceptionistBean.class
+com\hmis\dao\HMSGenericDaoImp.class
+com\hmis\hmis\Employee.class
+com\hmis\hmis\Person.class
+com\hmis\hmis\Patient.class
+com\hmis\servlets\RegisterPatient.class
+com\hmis\dao\HMISGenericDaoI.class
+com\hmis\dao\ReceptionistDao.class
+com\hmis\hmis\Receptionist.class
+com\hmis\beans\ReceptionistI.class
